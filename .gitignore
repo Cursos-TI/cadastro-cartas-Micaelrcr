@@ -1,0 +1,12 @@
+# Build outputs
+output/
+novato/output/
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug symbols
+*.pdb
